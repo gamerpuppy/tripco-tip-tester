@@ -1,4 +1,15 @@
 {
+    "filters": [
+        {
+            "name": "type",
+            "values": [
+                "airport",
+                "heliport",
+                "balloonport",
+                "closed"
+            ]
+        }
+    ],
     "optimizations": [
         "none",
         "short",
