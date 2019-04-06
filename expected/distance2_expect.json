@@ -1,0 +1,14 @@
+{
+    "destination": {
+        "latitude": "0",
+        "longitude": "180"
+    },
+    "distance": 69,
+    "earthRadius": 3959.0,
+    "origin": {
+        "latitude": "0",
+        "longitude": "-179"
+    },
+    "requestType": "distance",
+    "requestVersion": 4
+}

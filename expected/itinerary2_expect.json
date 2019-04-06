@@ -1,0 +1,48 @@
+{
+    "distances": [
+        24,
+        41,
+        122,
+        42,
+        105
+    ],
+    "options": {
+        "earthRadius": "3958.761316",
+        "optimization": "short",
+        "title": "My Trip 1"
+    },
+    "places": [
+        {
+            "id": "dnvr",
+            "latitude": "39.7392",
+            "longitude": "-104.9903",
+            "name": "Denver"
+        },
+        {
+            "id": "bldr",
+            "latitude": "40.01499",
+            "longitude": "-105.27055",
+            "name": "Boulder"
+        },
+        {
+            "id": "foco",
+            "latitude": "40.585258",
+            "longitude": "-105.084419",
+            "name": "Fort Collins"
+        },
+        {
+            "id": "cosp",
+            "latitude": "38.8339",
+            "longitude": "-104.8214",
+            "name": "Colorado Springs"
+        },
+        {
+            "id": "pueb",
+            "latitude": "38.2544",
+            "longitude": "-104.6091",
+            "name": "Pueblo"
+        }
+    ],
+    "requestType": "itinerary",
+    "requestVersion": 4
+}

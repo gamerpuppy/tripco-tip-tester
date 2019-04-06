@@ -1,0 +1,18 @@
+{
+    "optimizations": [
+        "none",
+        "short",
+        "shorter"
+    ],
+    "placeAttributes": [
+        "name",
+        "latitude",
+        "longitude",
+        "id",
+        "municipality",
+        "altitude"
+    ],
+    "requestType": "config",
+    "requestVersion": 4,
+    "serverName": "T04 YMJCK"
+}

@@ -1,0 +1,13 @@
+{
+    "requestType": "distance",
+    "requestVersion": 4,
+    "origin": {
+        "latitude": "40.5853",
+        "longitude": "-105.0844"
+    },
+    "destination": {
+        "latitude": "-33.8688",
+        "longitude": "151.2093"
+    },
+    "earthRadius": "63710087714"
+}
