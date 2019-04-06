@@ -35,6 +35,6 @@ do
     | python3 json_tool.py ${SERVER} ${ENDPOINT} \
     > ./responses/${RESP_FILENAME}
 
-    diff ./expected/${EXPECT_FILENAME} ./responses/${RESP_FILENAME} | HEAD -n50
+    diff ./expected/${EXPECT_FILENAME} ./responses/${RESP_FILENAME}
 
 done
