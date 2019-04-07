@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+if [ $# -ne 1 ]; then
+    echo usage: ./tip-tester.sh http://host:port
+    exit 1
+fi
 SERVER=$1
 
 echo "testing ${SERVER}"
