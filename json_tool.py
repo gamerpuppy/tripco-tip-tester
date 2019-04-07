@@ -18,7 +18,7 @@ req.add_header('Content-Type', 'application/json')
 
 try:
     resp =  urllib.request.urlopen(req)
-    parsed = json.loads(resp.read())
+    parsed = json.loads(resp.read().decode('utf8'))
     print(json.dumps(parsed, indent=4, sort_keys=True))
 
 except urllib.error.HTTPError as err:
