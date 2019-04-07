@@ -1,0 +1,31 @@
+{
+    "options": {
+        "earthRadius": "20902000"
+    },
+    "places": [
+        {
+            "id":"dnvr",
+            "altitude":"5280",
+            "municipality":"denver",
+            "country":"USA",
+            "continent":"north america",
+            "region":"front range",
+            "latitude": "39.7",
+            "longitude": "-105.0",
+            "name": "Denver"
+        },
+        {
+            "id":"foco",
+            "altitude":"5000",
+            "municipality":"fort collins",
+            "country":"USA",
+            "continent":"north america",
+            "region":"front range",
+            "latitude": "40.6",
+            "longitude": "-105.1",
+            "name": "Fort Collins"
+        }
+    ],
+    "requestType": "itinerary",
+    "requestVersion": 4
+}
