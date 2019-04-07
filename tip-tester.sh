@@ -11,7 +11,7 @@ echo "testing ${SERVER}"
 #rm -rf ./responses/*
 
 echo "config"
-python3 json_tool.py ${SERVER} /api/config || exit 1 > ./responses/config_response.json
+python3 json_tool.py ${SERVER} /api/config > ./responses/config_response.json
 diff ./expected/config_expect.json ./responses/config_response.json
 
 for FILENAME in $(ls ./requests)
@@ -30,10 +30,6 @@ do
 
     RESP_FILENAME="${FILENAME%.json}_response.json"
     EXPECT_FILENAME="${FILENAME%.json}_expect.json"
-
-#    cat ./requests/${FILENAME} \
-#    | python3 json_tool.py ${SERVER} ${ENDPOINT} \
-#        > ./responses/${RESP_FILENAME}
 
  cat ./requests/${FILENAME} \
     | python3 json_tool.py ${SERVER} ${ENDPOINT} \
