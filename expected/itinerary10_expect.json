@@ -1,0 +1,15 @@
+{
+    "distances": [],
+    "options": {
+        "earthRadius": "3959"
+    },
+    "places": [
+        {
+            "latitude": "40.0",
+            "longitude": "-105.4",
+            "name": "Boulder"
+        }
+    ],
+    "requestType": "itinerary",
+    "requestVersion": 4
+}
