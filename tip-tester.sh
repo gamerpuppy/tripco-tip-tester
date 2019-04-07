@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+if [ $# -ne 1 ]; then
+    echo usage: ./tip-tester.sh http://host:port
+    exit 1
+fi
 SERVER=$1
 
 echo "testing ${SERVER}"
@@ -7,7 +11,7 @@ echo "testing ${SERVER}"
 #rm -rf ./responses/*
 
 echo "config"
-python3 json_tool.py ${SERVER} /api/config > ./responses/config_response.json
+python3 json_tool.py ${SERVER} /api/config || exit 1 > ./responses/config_response.json
 diff ./expected/config_expect.json ./responses/config_response.json
 
 for FILENAME in $(ls ./requests)
