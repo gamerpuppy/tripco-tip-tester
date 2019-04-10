@@ -1,0 +1,8 @@
+{
+  "requestType"    : "find",
+  "requestVersion" : 4,
+  "match"          : "fort collins",
+  "narrow"         : [],
+  "limit"          : 0,
+  "places"         : []
+}

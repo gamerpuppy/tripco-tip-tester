@@ -1,10 +1,25 @@
 #!/usr/bin/env bash
 
-if [ $# -ne 1 ]; then
+if [ ${#} -lt 1 ]; then
     echo usage: ./tip-tester.sh http://host:port
     exit 1
 fi
-SERVER=$1
+SERVER=${1}
+
+if [ ${#} -e 2 ]; then
+	if [[ ${2} == *'distance'* ]]; then
+		ENDPOINT='/api/distance'
+	fi
+	if [[ ${2} == *'itinerary'* ]]; then
+		ENDPOINT='/api/itinerary'
+	fi
+	if [[ ${2} == *'find'* ]]; then
+		ENDPOINT='/api/find'
+	fi
+
+	cat $2 | python3 json_tool.py ${SERVER} ${ENDPOINT}
+	exit 0
+fi
 
 echo "testing ${SERVER}"
 

@@ -1,0 +1,9 @@
+{
+  "requestType"    : "find",
+  "requestVersion" : 4,
+  "match"          : "",
+  "narrow"         : [],
+  "limit"          : 0,
+  "found"          : 0,
+  "places"         : []
+}

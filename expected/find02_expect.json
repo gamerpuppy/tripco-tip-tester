@@ -1,0 +1,152 @@
+{
+    "found": 13,
+    "limit": 0,
+    "match": "fort collins",
+    "narrow": [],
+    "places": [
+        {
+            "altitude": "4935",
+            "continent": "North America",
+            "country": "United States",
+            "id": "0CO7",
+            "latitude": "40.5854988098",
+            "longitude": "-105.040000916",
+            "municipality": "Fort Collins",
+            "name": "Century Helicopters Heliport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "5160",
+            "continent": "North America",
+            "country": "United States",
+            "id": "CO55",
+            "latitude": "40.597198486328125",
+            "longitude": "-105.14399719238281",
+            "municipality": "Fort Collins",
+            "name": "Christman Field",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4939",
+            "continent": "North America",
+            "country": "United States",
+            "id": "K3V5",
+            "latitude": "40.5882987976",
+            "longitude": "-105.041999817",
+            "name": "Fort Collins Downtown Airport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "5016",
+            "continent": "North America",
+            "country": "United States",
+            "id": "KFNL",
+            "latitude": "40.4518013",
+            "longitude": "-105.011001587",
+            "municipality": "Fort Collins/Loveland",
+            "name": "Fort Collins Loveland Municipal Airport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4935",
+            "continent": "North America",
+            "country": "United States",
+            "id": "0CO4",
+            "latitude": "40.5899009705",
+            "longitude": "-105.04599762",
+            "municipality": "Fort Collins",
+            "name": "Geo-Seis Helicopters Heliport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4885",
+            "continent": "North America",
+            "country": "United States",
+            "id": "6CO4",
+            "latitude": "40.51029968261719",
+            "longitude": "-105.0009994506836",
+            "municipality": "Fort Collins",
+            "name": "Hat-Field STOLport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4935",
+            "continent": "North America",
+            "country": "United States",
+            "id": "CO91",
+            "latitude": "40.583900451660156",
+            "longitude": "-105.03500366210938",
+            "municipality": "Fort Collins",
+            "name": "Heli-Support Heliport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4935",
+            "continent": "North America",
+            "country": "United States",
+            "id": "2CO0",
+            "latitude": "40.58359909057617",
+            "longitude": "-106.98500061035156",
+            "municipality": "Fort Collins",
+            "name": "Heli-Support Ii Heliport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4935",
+            "continent": "North America",
+            "country": "United States",
+            "id": "CD46",
+            "latitude": "40.59109878540039",
+            "longitude": "-105.0479965209961",
+            "municipality": "Fort Collins",
+            "name": "North Arrow Heliport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4960",
+            "continent": "North America",
+            "country": "United States",
+            "id": "CD07",
+            "latitude": "40.57160186767578",
+            "longitude": "-105.05599975585938",
+            "municipality": "Fort Collins",
+            "name": "Poudre Valley Hospital Heliport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "5200",
+            "continent": "North America",
+            "country": "United States",
+            "id": "50CO",
+            "latitude": "40.65829849243164",
+            "longitude": "-104.95099639892578",
+            "municipality": "Fort Collins",
+            "name": "William T Browder Heliport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "4840",
+            "continent": "North America",
+            "country": "United States",
+            "id": "65CO",
+            "latitude": "40.52080154418945",
+            "longitude": "-104.96700286865234",
+            "municipality": "Fort Collins",
+            "name": "Wkr Airport",
+            "region": "Colorado"
+        },
+        {
+            "altitude": "5050",
+            "continent": "North America",
+            "country": "United States",
+            "id": "CO53",
+            "latitude": "40.634700775146484",
+            "longitude": "-104.99099731445312",
+            "municipality": "Fort Collins",
+            "name": "Yankee Field",
+            "region": "Colorado"
+        }
+    ],
+    "requestType": "find",
+    "requestVersion": 4
+}

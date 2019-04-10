@@ -1,0 +1,28 @@
+{
+    "found": 1,
+    "limit": 0,
+    "match": "yushu",
+    "narrow": [
+        {
+            "name": "type",
+            "values": [
+                "airport"
+            ]
+        }
+    ],
+    "places": [
+        {
+            "altitude": "12816",
+            "continent": "Asia",
+            "country": "China",
+            "id": "ZYLS",
+            "latitude": "32.836388888900004",
+            "longitude": "97.0363888889",
+            "municipality": "Yushu",
+            "name": "Yushu Batang Airport",
+            "region": "Qinghai Province"
+        }
+    ],
+    "requestType": "find",
+    "requestVersion": 4
+}
