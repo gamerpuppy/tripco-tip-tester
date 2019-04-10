@@ -1,0 +1,301 @@
+{
+    "found": 28,
+    "limit": 0,
+    "match": "ranch airstrip",
+    "narrow": [],
+    "places": [
+        {
+            "altitude": "1242",
+            "continent": "North America",
+            "country": "United States",
+            "id": "89TX",
+            "latitude": "30.87929916381836",
+            "longitude": "-98.41699981689453",
+            "municipality": "Burnet",
+            "name": "Aero-Bee Ranch Airstrip",
+            "region": "Texas"
+        },
+        {
+            "altitude": "2620",
+            "continent": "North America",
+            "country": "United States",
+            "id": "US-0058",
+            "latitude": "41.629413537699996",
+            "longitude": "-122.411416769",
+            "name": "Avery Ranch Airstrip",
+            "region": "California"
+        },
+        {
+            "altitude": "6620",
+            "continent": "North America",
+            "country": "United States",
+            "id": "NV31",
+            "latitude": "38.80580139160156",
+            "longitude": "-117.03099822998047",
+            "municipality": "Round Mountain",
+            "name": "Barker Creek Ranch Airstrip",
+            "region": "Nevada"
+        },
+        {
+            "altitude": "5115",
+            "continent": "North America",
+            "country": "United States",
+            "id": "58AZ",
+            "latitude": "34.093611",
+            "longitude": "-110.932778",
+            "municipality": "Young",
+            "name": "Chapman Ranch Airstrip",
+            "region": "Arizona"
+        },
+        {
+            "altitude": "116",
+            "continent": "North America",
+            "country": "United States",
+            "id": "MD50",
+            "latitude": "38.36119842529297",
+            "longitude": "-76.40519714355469",
+            "municipality": "Lusby",
+            "name": "Chesapeake Ranch Airstrip",
+            "region": "Maryland"
+        },
+        {
+            "altitude": "4128",
+            "continent": "North America",
+            "country": "United States",
+            "id": "78OR",
+            "latitude": "43.307899475097656",
+            "longitude": "-117.89399719238281",
+            "municipality": "Crowley",
+            "name": "Crowley Ranch Airstrip",
+            "region": "Oregon"
+        },
+        {
+            "altitude": "50",
+            "continent": "North America",
+            "country": "United States",
+            "id": "35CN",
+            "latitude": "39.09989929199219",
+            "longitude": "-121.93399810791016",
+            "municipality": "Grimes",
+            "name": "Farnsworth Ranch Airstrip",
+            "region": "California"
+        },
+        {
+            "altitude": "1750",
+            "continent": "North America",
+            "country": "United States",
+            "id": "35TX",
+            "latitude": "32.48400115966797",
+            "longitude": "-99.82559967041016",
+            "municipality": "Abilene",
+            "name": "Flying B Ranch Airstrip",
+            "region": "Texas"
+        },
+        {
+            "altitude": "7020",
+            "continent": "North America",
+            "country": "United States",
+            "id": "41CO",
+            "latitude": "39.971111",
+            "longitude": "-107.611111",
+            "municipality": "Meeker",
+            "name": "Flying Dog Ranch Airstrip",
+            "region": "Colorado"
+        },
+        {
+            "continent": "North America",
+            "country": "United States",
+            "id": "US-0001",
+            "latitude": "38.60940170288086",
+            "longitude": "-118.99600219726562",
+            "name": "Flying M Ranch Airstrip",
+            "region": "Nevada"
+        },
+        {
+            "altitude": "6006",
+            "continent": "North America",
+            "country": "United States",
+            "id": "NV24",
+            "latitude": "40.05799865722656",
+            "longitude": "-115.50599670410156",
+            "municipality": "Ruby Valley",
+            "name": "Fort Ruby Ranch Airstrip",
+            "region": "Nevada"
+        },
+        {
+            "continent": "Africa",
+            "country": "Kenya",
+            "id": "KE-0116",
+            "latitude": "-3.062141",
+            "longitude": "39.331661",
+            "name": "Galana Ranch Airstrip",
+            "region": "Central Province"
+        },
+        {
+            "altitude": "500",
+            "continent": "North America",
+            "country": "United States",
+            "id": "TX89",
+            "latitude": "32.96979904174805",
+            "longitude": "-96.62249755859375",
+            "municipality": "Garland",
+            "name": "Ganze Ranch Airstrip",
+            "region": "Texas"
+        },
+        {
+            "altitude": "5025",
+            "continent": "North America",
+            "country": "United States",
+            "id": "AZ46",
+            "latitude": "34.76639938354492",
+            "longitude": "-112.54900360107422",
+            "municipality": "Chino Valley",
+            "name": "H&H Ranch Airstrip",
+            "region": "Arizona"
+        },
+        {
+            "altitude": "7026",
+            "continent": "North America",
+            "country": "Mexico",
+            "id": "MX-0069",
+            "latitude": "19.3293",
+            "longitude": "-102.3274",
+            "municipality": "Tancitaro",
+            "name": "Hernandez Ranch Airstrip",
+            "region": "Michoacin"
+        },
+        {
+            "continent": "Africa",
+            "country": "Kenya",
+            "id": "KE-0127",
+            "latitude": "0.601706",
+            "longitude": "36.73699",
+            "name": "Kamogi Ranch Airstrip",
+            "region": "Rift Valley Province"
+        },
+        {
+            "continent": "Africa",
+            "country": "Kenya",
+            "id": "KE-0140",
+            "latitude": "0.512642",
+            "longitude": "36.694537",
+            "name": "Kisima Ranch Airstrip",
+            "region": "Rift Valley Province"
+        },
+        {
+            "altitude": "2450",
+            "continent": "North America",
+            "country": "United States",
+            "id": "68OR",
+            "latitude": "45.3911",
+            "longitude": "-121.276001",
+            "municipality": "Dufur",
+            "name": "Lyda Ranch Airstrip",
+            "region": "Oregon"
+        },
+        {
+            "altitude": "8820",
+            "continent": "North America",
+            "country": "United States",
+            "id": "33CO",
+            "latitude": "37.064998626708984",
+            "longitude": "-105.46399688720703",
+            "municipality": "San Luis",
+            "name": "Melby Ranch Airstrip",
+            "region": "Colorado"
+        },
+        {
+            "continent": "North America",
+            "country": "Mexico",
+            "id": "MX-0002",
+            "latitude": "30.9753278217",
+            "longitude": "-115.737876892",
+            "name": "Meling Ranch Airstrip",
+            "region": "Baja California"
+        },
+        {
+            "continent": "Africa",
+            "country": "Kenya",
+            "id": "KE-0170",
+            "latitude": "0.251711",
+            "longitude": "36.805338",
+            "name": "Mukenye Ranch Airstrip",
+            "region": "Rift Valley Province"
+        },
+        {
+            "altitude": "3410",
+            "continent": "North America",
+            "country": "Canada",
+            "id": "CTY4",
+            "latitude": "51.9001705129",
+            "longitude": "-114.147820473",
+            "name": "Olds / North 40 Ranch Airstrip",
+            "region": "Alberta"
+        },
+        {
+            "altitude": "1980",
+            "continent": "North America",
+            "country": "United States",
+            "id": "AZ01",
+            "latitude": "33.8477783203",
+            "longitude": "-113.570274353",
+            "municipality": "Wenden",
+            "name": "Outback Ranch Airstrip",
+            "region": "Arizona"
+        },
+        {
+            "altitude": "1767",
+            "continent": "Africa",
+            "country": "Kenya",
+            "id": "KE-0186",
+            "latitude": "-3.575566",
+            "longitude": "38.760165",
+            "name": "Rukinga Ranch Airstrip",
+            "region": "Rift Valley Province"
+        },
+        {
+            "altitude": "5600",
+            "continent": "Africa",
+            "country": "Kenya",
+            "id": "KE-0187",
+            "latitude": "0.431231",
+            "longitude": "36.729133",
+            "name": "Saguta Naibor Ranch Airstrip",
+            "region": "Rift Valley Province"
+        },
+        {
+            "altitude": "3430",
+            "continent": "North America",
+            "country": "United States",
+            "id": "42OR",
+            "latitude": "44.13420104980469",
+            "longitude": "-120.322998046875",
+            "municipality": "Post",
+            "name": "Shotgun Ranch Airstrip",
+            "region": "Oregon"
+        },
+        {
+            "altitude": "5700",
+            "continent": "Africa",
+            "country": "Kenya",
+            "id": "KE-0195",
+            "latitude": "0.418494",
+            "longitude": "36.738667",
+            "name": "Sosian Ranch Airstrip",
+            "region": "Rift Valley Province"
+        },
+        {
+            "altitude": "7957",
+            "continent": "North America",
+            "country": "United States",
+            "id": "3CO4",
+            "latitude": "37.070899963378906",
+            "longitude": "-105.01899719238281",
+            "municipality": "Stonewall",
+            "name": "Tercio Ranch Airstrip",
+            "region": "Colorado"
+        }
+    ],
+    "requestType": "find",
+    "requestVersion": 4
+}
